@@ -1,8 +1,9 @@
 ## Hi there 👋
 
+
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoshinari0822&layout=compact&show_icons=true&theme=onedark" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=yoshinari0822&count_private=true&theme=onedark" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats-bice-chi-27.vercel.app/api?username=yoshinari0822&count_private=true&theme=onedark" />
 </p>
 <!--
 **yoshinari0822/yoshinari0822** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
